@@ -3,7 +3,8 @@
 Git repository for the project on the atmospheric and climate response to an idealized strong volcanic aerosol forcing using the ICON climate model in a slab-ocean setup.
 This repository contains scripts and notebooks used to modify volcanic aerosol input files, run the ICON experiment, and analyse the model output. 
 
-Authors: [Raphael Krachler, Kevin Llanaj, Simon Benke, Bagas Briliano] [Institute of Meteorology and Geophysics/ University of Vienna]  
+Authors: Raphael Krachler, Kevin Llanaj, Simon Benke, Bagas Briliano,
+Institute of Meteorology and Geophysics/ University of Vienna
 
 ## Repository contents
 
